@@ -1,4 +1,4 @@
-# SDCGNN-DK: Spatial Dual Crystal Graph Neural Network for Materials Property Prediction
+# Structure Divide-and-Conquer: Dual Graph Representation for Accurate Ionic Transport Barrier Prediction of Inorganic Compounds
 
 ## Introduction
 
