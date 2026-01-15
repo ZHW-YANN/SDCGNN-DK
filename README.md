@@ -1,9 +1,5 @@
 # Structure Divide-and-Conquer: Dual Graph Representation for Accurate Ionic Transport Barrier Prediction of Inorganic Compounds
 
-## Introduction
-
-SDCGNN-DK (Spatial Dual Crystal Graph Neural Network with Domain Knowledge) is a novel deep learning framework designed for predicting materials properties by leveraging both crystal structure and interstice network representations. The model combines geometric graph neural networks with domain knowledge from materials science to provide accurate predictions of material characteristics.
-
 ## Features
 
 - **Dual Graph Representation**: Combines crystal structure graphs and interstice network graphs for comprehensive material modeling
